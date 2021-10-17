@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Pages/Footer/Footer";
@@ -12,7 +12,7 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route path="/sevure" component={Home} />
+        <Route path="/" exact component={Home} />
         <Route path="/services" component={Services} />
         <Route path="/products" component={Products} />
         <Route path="/sign-up" component={SignUp} />
