@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/sevure/static/css/main.fbb2de22.chunk.css",
-    "main.js": "/sevure/static/js/main.ab169092.chunk.js",
-    "main.js.map": "/sevure/static/js/main.ab169092.chunk.js.map",
+    "main.js": "/sevure/static/js/main.d37d188c.chunk.js",
+    "main.js.map": "/sevure/static/js/main.d37d188c.chunk.js.map",
     "runtime-main.js": "/sevure/static/js/runtime-main.7932bcf3.js",
     "runtime-main.js.map": "/sevure/static/js/runtime-main.7932bcf3.js.map",
-    "static/js/2.83fe054f.chunk.js": "/sevure/static/js/2.83fe054f.chunk.js",
-    "static/js/2.83fe054f.chunk.js.map": "/sevure/static/js/2.83fe054f.chunk.js.map",
+    "static/js/2.30c29a67.chunk.js": "/sevure/static/js/2.30c29a67.chunk.js",
+    "static/js/2.30c29a67.chunk.js.map": "/sevure/static/js/2.30c29a67.chunk.js.map",
     "index.html": "/sevure/index.html",
     "static/css/main.fbb2de22.chunk.css.map": "/sevure/static/css/main.fbb2de22.chunk.css.map",
-    "static/js/2.83fe054f.chunk.js.LICENSE.txt": "/sevure/static/js/2.83fe054f.chunk.js.LICENSE.txt"
+    "static/js/2.30c29a67.chunk.js.LICENSE.txt": "/sevure/static/js/2.30c29a67.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7932bcf3.js",
-    "static/js/2.83fe054f.chunk.js",
+    "static/js/2.30c29a67.chunk.js",
     "static/css/main.fbb2de22.chunk.css",
-    "static/js/main.ab169092.chunk.js"
+    "static/js/main.d37d188c.chunk.js"
   ]
 }
